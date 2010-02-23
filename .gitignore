@@ -1,0 +1,22 @@
+.hg/
+.hgignore
+data/
+Debug/
+Release/
+Debug (SA)/
+Release (SA)/
+*.dbc
+*.ilk
+*.lib
+*.pdb
+*.pyd
+*.ncb
+*.suo
+*.vcproj.*
+*.exp
+*.bmp
+*.*~
+log.txt
+hgpush.bat
+hgpull.bat
+codename_ch.dat
